@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This site is currently deployed, but is still being actively worked on. The site can be found at this link:
 
-[Spotify Clone | Conner](https://spotify-clone-sable-three.vercel.app/)
+<a href="https://spotify-clone-sable-three.vercel.app/" target="_blank">Spotify Clone | Conner</a>
 
 ## Technologies Used:
 
