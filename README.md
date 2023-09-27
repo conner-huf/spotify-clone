@@ -3,7 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Spotify Clone
 
 This site is currently deployed, but is still being actively worked on. The site can be found at:
-https://spotify-clone-sable-three.vercel.app/
+
+[Spotify Clone | Conner](https://spotify-clone-sable-three.vercel.app/)
 
 ## Technologies Used:
 
