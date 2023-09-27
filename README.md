@@ -6,11 +6,11 @@ This site is currently deployed, but is still being actively worked on. The site
 https://spotify-clone-sable-three.vercel.app/
 
 # Technologies Used:
----
-Typescript
-React
-TailwindCSS
-SupaBase
+
+- Typescript
+- React
+- TailwindCSS
+- SupaBase
 
 This spotify clone uses some mp3s provided through SlipStream.
 
