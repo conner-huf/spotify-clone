@@ -1,11 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Spotify Clone
+# Spotify Clone
 
 This site is currently deployed, but is still being actively worked on. The site can be found at:
 https://spotify-clone-sable-three.vercel.app/
 
-# Technologies Used:
+## Technologies Used:
 
 - Typescript
 - React
@@ -28,3 +28,7 @@ A user can 'like' a song by pressing the heart icon next to the song, and the so
 
 The user can also search for an individual song on the search page.
 ![Search page](/Screenshots/Search_Page.png)
+
+---
+
+Making this application was an incredibly insightful learning experience. Learning React is a bit of a slog with lots of new concepts for a new developer like myself. So working on this felt like a great way to familiarize myself with the concepts of using tools like useState and useEffect more effectively.
