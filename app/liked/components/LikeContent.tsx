@@ -42,7 +42,7 @@ if (songs.length === 0) {
     )
 }
 
-    return ( 
+    return (
         <div className="flex flex-col gap-y-2 w-full p-6">
             {songs.map((song) => (
                 <div
@@ -55,11 +55,11 @@ if (songs.length === 0) {
                             data={song}
                         />
                     </div>
-                    <LikeButton songId={song.id} /> 
+                    <LikeButton songId={song.id} />
                 </div>
             ))}
         </div>
      );
 }
- 
+
 export default LikedContent;
